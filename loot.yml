@@ -181,7 +181,7 @@ default_normal:
   arrow:
     chance: '15'
     min-quantity: '1'
-    max-quantity: 2'
+    max-quantity: '2'
   spider_eye:
     chance: '2'
     min-quantity: '1'
