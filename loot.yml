@@ -97,7 +97,7 @@ default_rare:
     chance: '5'
     min-quantity: '1'
     max-quantity: '1'
-  gold_horse_armor:
+  golden_horse_armor:
     chance: '5'
     min-quantity: '1'
     max-quantity: '1'
@@ -182,7 +182,7 @@ default_normal:
     chance: '30'
     min-quantity: '1'
     max-quantity: '3'
-  spider_eyes:
+  spider_eye:
     chance: '5'
     min-quantity: '1'
     max-quantity: '1'
