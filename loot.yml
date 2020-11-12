@@ -1,112 +1,112 @@
 default_legendary:
   dragon_head:
-    chance: '5'
+    chance: '2.5'
     min-quantity: '1'
     max-quantity: '1'
   totem_of_undying:
-    chance: '3'
+    chance: '1.5'
     min-quantity: '1'
     max-quantity: '1'
   enchanted_golden_apple:
-    chance: '3'
+    chance: '1.5'
     min-quantity: '1'
     max-quantity: '1'
 default_epic: 
   rabbit_foot: 
-    chance: '5' 
+    chance: '2.5' 
     min-quantity: '1' 
     max-quantity: '2' 
   diamond: 
-    chance: '20' 
+    chance: '10' 
+    min-quantity: '1' 
+    max-quantity: '1' 
+  emerald: 
+    chance: '2.5' 
     min-quantity: '1' 
     max-quantity: '2' 
-  emerald: 
-    chance: '5' 
-    min-quantity: '1' 
-    max-quantity: '3' 
   glowstone_dust: 
-    chance: '20' 
+    chance: '10' 
     min-quantity: '1' 
     max-quantity: '3' 
   blaze_rod: 
-    chance: '5' 
+    chance: '2.5' 
     min-quantity: '1' 
     max-quantity: '1' 
   ender_pearl: 
-    chance: '5' 
+    chance: '2.5' 
     min-quantity: '1' 
     max-quantity: '3' 
   shulker_shell: 
-    chance: '2' 
+    chance: '1' 
     min-quantity: '1' 
     max-quantity: '2' 
   golden_apple: 
-    chance: '5' 
+    chance: '2.5' 
     min-quantity: '1' 
-    max-quantity: '3' 
+    max-quantity: '1' 
   sea_lantern: 
     chance: '10' 
     min-quantity: '1' 
-    max-quantity: '3' 
+    max-quantity: '2' 
   magma_block: 
-    chance: '10' 
+    chance: '5' 
     min-quantity: '1' 
     max-quantity: '1' 
   magma_cream: 
-    chance: '5' 
+    chance: '2' 
     min-quantity: '1' 
     max-quantity: '1' 
   ghast_tear: 
-    chance: '3' 
+    chance: '1' 
     min-quantity: '1' 
     max-quantity: '1' 
   name_tag: 
-    chance: '5' 
+    chance: '1' 
     min-quantity: '1' 
     max-quantity: '1' 
 default_rare:
   cactus:
-    chance: '5'
+    chance: '2.5'
     min-quantity: '1'
     max-quantity: '3'
   nether_quartz_ore:
-    chance: '10'
+    chance: '5'
     min-quantity: '1'
     max-quantity: '5'
   iron_ingot:
-    chance: '30'
+    chance: '10'
     min-quantity: '1'
     max-quantity: '3'
   gunpowder:
-    chance: '30'
+    chance: '10'
     min-quantity: '1'
     max-quantity: '3'
   book:
-    chance: '5'
+    chance: '2.5'
     min-quantity: '1'
-    max-quantity: '3'
+    max-quantity: '2'
   slime_ball:
-    chance: '5'
+    chance: '2'
     min-quantity: '1'
     max-quantity: '9'
   saddle:
-    chance: '5'
+    chance: '2'
     min-quantity: '1'
     max-quantity: '1'
   iron_horse_armor:
-    chance: '5'
+    chance: '2'
     min-quantity: '1'
     max-quantity: '1'
   golden_horse_armor:
-    chance: '5'
+    chance: '2'
     min-quantity: '1'
     max-quantity: '1'
   diamond_horse_armor:
-    chance: '5'
+    chance: '2'
     min-quantity: '1'
     max-quantity: '1'
   cooked_porkchop:
-    chance: '30'
+    chance: '10'
     min-quantity: '1'
     max-quantity: '3'
   nether_wart:
@@ -114,75 +114,75 @@ default_rare:
     min-quantity: '1'
     max-quantity: '1'
   blaze_powder:
-    chance: '5'
+    chance: '2.5'
     min-quantity: '1'
     max-quantity: '1'
   chorus_fruit:
-    chance: '20'
+    chance: '10'
     min-quantity: '1'
-    max-quantity: '5'
+    max-quantity: '3'
 default_normal:
   bread:
-    chance: '10'
+    chance: '5'
     min-quantity: '1'
     max-quantity: '3'
   Apple:
-    chance: '10'
+    chance: '5'
     min-quantity: '1'
     max-quantity: '3'
   salmon:
-    chance: '10'
+    chance: '5'
     min-quantity: '1'
     max-quantity: '3'
   carrot:
-    chance: '10'
+    chance: '5'
     min-quantity: '1'
     max-quantity: '3'
   potato:
-    chance: '10'
+    chance: '5'
     min-quantity: '1'
     max-quantity: '3'
   cookie:
-    chance: '10'
+    chance: '5'
     min-quantity: '1'
     max-quantity: '3'
   melon:
-    chance: '10'
+    chance: '5'
     min-quantity: '1'
     max-quantity: '3'
   leather:
-    chance: '10'
+    chance: '5'
     min-quantity: '1'
     max-quantity: '3'
   coal:
-    chance: '10'
+    chance: '5'
     min-quantity: '1'
     max-quantity: '3'
   wheat:
-    chance: '10'
+    chance: '5'
     min-quantity: '1'
     max-quantity: '3'
   bone:
-    chance: '10'
+    chance: '5'
     min-quantity: '1'
     max-quantity: '3'
   iron_nugget:
-    chance: '50'
+    chance: '15'
     min-quantity: '1'
     max-quantity: '3'
   gold_nugget:
-    chance: '30'
+    chance: '10'
     min-quantity: '1'
     max-quantity: '3'
   string:
-    chance: '10'
+    chance: '5'
     min-quantity: '1'
     max-quantity: '1'
   arrow:
-    chance: '30'
+    chance: '15'
     min-quantity: '1'
     max-quantity: '3'
   spider_eye:
-    chance: '5'
+    chance: '2'
     min-quantity: '1'
     max-quantity: '1'
