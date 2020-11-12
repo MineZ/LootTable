@@ -28,10 +28,6 @@ default_epic:
     chance: '10' 
     min-quantity: '1' 
     max-quantity: '3' 
-  blaze_rod: 
-    chance: '1.5' 
-    min-quantity: '1' 
-    max-quantity: '1' 
   ender_pearl: 
     chance: '2' 
     min-quantity: '1' 
@@ -121,6 +117,14 @@ default_rare:
     chance: '8'
     min-quantity: '1'
     max-quantity: '3'
+  bandage:
+    chance: '8'
+    min-quantity: '1'
+    max-quantity: '1'
+  antidote:
+    chance: '5'
+    min-quantity: '1'
+    max-quantity: '1'
 default_normal:
   bread:
     chance: '3'
@@ -186,3 +190,36 @@ default_normal:
     chance: '1'
     min-quantity: '1'
     max-quantity: '1'
+matou:
+  blaze_rod: 
+    chance: '5' 
+    min-quantity: '1' 
+    max-quantity: '1' 
+yiyuan:
+  adrenaline:
+    chance: '5'
+    min-quantity: '1'
+    max-quantity: '1'
+  antidote:
+    chance: '5'
+    min-quantity: '1'
+    max-quantity: '1'
+  bandage:
+    chance: '10'
+    min-quantity: '1'
+    max-quantity: '1'
+tianwentai:
+  arrow:
+    chance: '10'
+    min-quantity: '1'
+    max-quantity: '5'
+keyanjidi:
+  arrow:
+    chance: '10'
+    min-quantity: '1'
+    max-quantity: '5'
+junshijidi:
+  arrow:
+    chance: '10'
+    min-quantity: '1'
+    max-quantity: '5'
