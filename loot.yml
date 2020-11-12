@@ -13,7 +13,7 @@ default_legendary:
     max-quantity: '1'
 default_epic: 
   rabbit_foot: 
-    chance: '2.5' 
+    chance: '2' 
     min-quantity: '1' 
     max-quantity: '2' 
   diamond: 
@@ -29,15 +29,15 @@ default_epic:
     min-quantity: '1' 
     max-quantity: '3' 
   blaze_rod: 
-    chance: '2.5' 
+    chance: '1.5' 
     min-quantity: '1' 
     max-quantity: '1' 
   ender_pearl: 
-    chance: '2.5' 
+    chance: '2' 
     min-quantity: '1' 
     max-quantity: '3' 
   shulker_shell: 
-    chance: '1' 
+    chance: '0.8' 
     min-quantity: '1' 
     max-quantity: '2' 
   golden_apple: 
@@ -47,7 +47,7 @@ default_epic:
   sea_lantern: 
     chance: '10' 
     min-quantity: '1' 
-    max-quantity: '2' 
+    max-quantity: '3' 
   magma_block: 
     chance: '5' 
     min-quantity: '1' 
@@ -66,11 +66,11 @@ default_epic:
     max-quantity: '1' 
 default_rare:
   cactus:
-    chance: '2.5'
+    chance: '2'
     min-quantity: '1'
     max-quantity: '3'
   nether_quartz_ore:
-    chance: '5'
+    chance: '3'
     min-quantity: '1'
     max-quantity: '5'
   iron_ingot:
@@ -78,31 +78,31 @@ default_rare:
     min-quantity: '1'
     max-quantity: '3'
   gunpowder:
-    chance: '10'
+    chance: '8'
     min-quantity: '1'
     max-quantity: '3'
   book:
-    chance: '2.5'
+    chance: '3'
     min-quantity: '1'
     max-quantity: '2'
   slime_ball:
-    chance: '2'
+    chance: '1'
     min-quantity: '1'
     max-quantity: '9'
   saddle:
-    chance: '2'
+    chance: '1'
     min-quantity: '1'
     max-quantity: '1'
   iron_horse_armor:
-    chance: '2'
+    chance: '1'
     min-quantity: '1'
     max-quantity: '1'
   golden_horse_armor:
-    chance: '2'
+    chance: '1'
     min-quantity: '1'
     max-quantity: '1'
   diamond_horse_armor:
-    chance: '2'
+    chance: '1'
     min-quantity: '1'
     max-quantity: '1'
   cooked_porkchop:
@@ -110,79 +110,79 @@ default_rare:
     min-quantity: '1'
     max-quantity: '3'
   nether_wart:
-    chance: '10'
+    chance: '3'
     min-quantity: '1'
     max-quantity: '1'
   blaze_powder:
-    chance: '2.5'
+    chance: '1'
     min-quantity: '1'
     max-quantity: '1'
   chorus_fruit:
-    chance: '10'
+    chance: '8'
     min-quantity: '1'
     max-quantity: '3'
 default_normal:
   bread:
-    chance: '5'
+    chance: '3'
     min-quantity: '1'
     max-quantity: '2'
   Apple:
-    chance: '5'
+    chance: '3'
     min-quantity: '1'
     max-quantity: '2'
   salmon:
-    chance: '5'
+    chance: '3'
     min-quantity: '1'
     max-quantity: '2'
   carrot:
-    chance: '5'
+    chance: '3'
     min-quantity: '1'
     max-quantity: '2'
   potato:
-    chance: '5'
+    chance: '3'
     min-quantity: '1'
     max-quantity: '2'
   cookie:
-    chance: '5'
+    chance: '3'
     min-quantity: '1'
     max-quantity: '2'
   melon:
-    chance: '5'
+    chance: '3'
     min-quantity: '1'
     max-quantity: '2'
   leather:
-    chance: '5'
+    chance: '3'
     min-quantity: '1'
     max-quantity: '2'
   coal:
-    chance: '5'
+    chance: '3'
     min-quantity: '1'
     max-quantity: '2'
   wheat:
-    chance: '5'
+    chance: '3'
     min-quantity: '1'
     max-quantity: '2'
   bone:
-    chance: '5'
+    chance: '3'
     min-quantity: '1'
     max-quantity: '2'
   iron_nugget:
-    chance: '15'
+    chance: '10'
     min-quantity: '1'
-    max-quantity: '2'
+    max-quantity: '6'
   gold_nugget:
     chance: '10'
     min-quantity: '1'
-    max-quantity: '2'
+    max-quantity: '6'
   string:
-    chance: '5'
+    chance: '3'
     min-quantity: '1'
     max-quantity: '1'
   arrow:
-    chance: '15'
+    chance: '10'
     min-quantity: '1'
-    max-quantity: '2'
+    max-quantity: '5'
   spider_eye:
-    chance: '2'
+    chance: '1'
     min-quantity: '1'
     max-quantity: '1'
