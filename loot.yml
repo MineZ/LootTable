@@ -2,7 +2,7 @@ default_legendary:
   dragon_head:
     chance: '5'
     min-quantity: '1'
-max-quantity: '1'
+    max-quantity: '1'
   totem_of_undying:
     chance: '3'
     min-quantity: '1'
@@ -16,111 +16,111 @@ default_epic:
     chance: '5' 
     min-quantity: '1' 
     max-quantity: '2' 
-diamond: 
+  diamond: 
     chance: '20' 
     min-quantity: '1' 
     max-quantity: '2' 
-emerald: 
+  emerald: 
     chance: '5' 
     min-quantity: '1' 
     max-quantity: '3' 
-glowstone_dust: 
+  glowstone_dust: 
     chance: '20' 
     min-quantity: '1' 
     max-quantity: '3' 
-blaze_rod: 
+  blaze_rod: 
     chance: '5' 
     min-quantity: '1' 
     max-quantity: '1' 
-ender_pearl: 
+  ender_pearl: 
     chance: '5' 
     min-quantity: '1' 
     max-quantity: '3' 
-shulker_shell: 
+  shulker_shell: 
     chance: '2' 
     min-quantity: '1' 
     max-quantity: '2' 
-golden_apple: 
+  golden_apple: 
     chance: '5' 
     min-quantity: '1' 
     max-quantity: '3' 
-sea_lantern: 
+  sea_lantern: 
     chance: '10' 
     min-quantity: '1' 
     max-quantity: '3' 
-magma_block: 
+  magma_block: 
     chance: '10' 
     min-quantity: '1' 
     max-quantity: '1' 
-magma_cream: 
+  magma_cream: 
     chance: '5' 
     min-quantity: '1' 
     max-quantity: '1' 
-ghast_tear: 
+  ghast_tear: 
     chance: '3' 
     min-quantity: '1' 
     max-quantity: '1' 
-name_tag: 
+  name_tag: 
     chance: '5' 
     min-quantity: '1' 
-max-quantity: '1' 
+    max-quantity: '1' 
 default_rare:
   cactus:
     chance: '5'
     min-quantity: '1'
     max-quantity: '3'
-nether_quartz_ore:
+  nether_quartz_ore:
     chance: '10'
     min-quantity: '1'
     max-quantity: '5'
-iron_ingot:
+  iron_ingot:
     chance: '30'
     min-quantity: '1'
     max-quantity: '3'
-gunpowder:
+  gunpowder:
     chance: '30'
     min-quantity: '1'
     max-quantity: '3'
-book:
+  book:
     chance: '5'
     min-quantity: '1'
     max-quantity: '3'
-slime_ball:
+  slime_ball:
     chance: '5'
     min-quantity: '1'
-max-quantity: '9'
-saddle:
-    chance: '5'
-    min-quantity: '1'
-    max-quantity: '1'
-iron_horse_armor:
-    chance: '5'
-    min-quantity: '1'
-max-quantity: '1'
-gold_horse_armor:
+    max-quantity: '9'
+  saddle:
     chance: '5'
     min-quantity: '1'
     max-quantity: '1'
-diamond_horse_armor:
+  iron_horse_armor:
     chance: '5'
     min-quantity: '1'
     max-quantity: '1'
-cooked_porkchop:
+  gold_horse_armor:
+    chance: '5'
+    min-quantity: '1'
+    max-quantity: '1'
+  diamond_horse_armor:
+    chance: '5'
+    min-quantity: '1'
+    max-quantity: '1'
+  cooked_porkchop:
     chance: '30'
     min-quantity: '1'
     max-quantity: '3'
-nether_wart:
+  nether_wart:
     chance: '10'
     min-quantity: '1'
     max-quantity: '1'
-blaze_powder:
+  blaze_powder:
     chance: '5'
     min-quantity: '1'
     max-quantity: '1'
-chorus_fruit:
+  chorus_fruit:
     chance: '20'
     min-quantity: '1'
-max-quantity: '5'
+    max-quantity: '5'
 default_normal:
   bread:
     chance: '10'
