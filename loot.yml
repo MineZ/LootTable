@@ -16,6 +16,10 @@ default_epic:
     chance: '2' 
     min-quantity: '1' 
     max-quantity: '2' 
+  dragon_breath: 
+    chance: '10' 
+    min-quantity: '1' 
+    max-quantity: '1' 
   diamond: 
     chance: '10' 
     min-quantity: '1' 
@@ -192,7 +196,7 @@ default_normal:
     max-quantity: '1'
 matou:
   blaze_rod: 
-    chance: '5' 
+    chance: '15' 
     min-quantity: '1' 
     max-quantity: '1' 
 yiyuan:
