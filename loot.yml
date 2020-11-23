@@ -48,14 +48,6 @@ default_epic:
     chance: '10' 
     min-quantity: '1' 
     max-quantity: '3' 
-  magma_block: 
-    chance: '5' 
-    min-quantity: '1' 
-    max-quantity: '1' 
-  magma_cream: 
-    chance: '2' 
-    min-quantity: '1' 
-    max-quantity: '1' 
   ghast_tear: 
     chance: '1' 
     min-quantity: '1' 
@@ -69,10 +61,6 @@ default_rare:
     chance: '2'
     min-quantity: '1'
     max-quantity: '3'
-  nether_quartz_ore:
-    chance: '3'
-    min-quantity: '1'
-    max-quantity: '5'
   iron_ingot:
     chance: '10'
     min-quantity: '1'
@@ -109,14 +97,6 @@ default_rare:
     chance: '10'
     min-quantity: '1'
     max-quantity: '3'
-  nether_wart:
-    chance: '3'
-    min-quantity: '1'
-    max-quantity: '1'
-  blaze_powder:
-    chance: '1'
-    min-quantity: '1'
-    max-quantity: '1'
   chorus_fruit:
     chance: '8'
     min-quantity: '1'
@@ -129,6 +109,10 @@ default_rare:
     chance: '5'
     min-quantity: '1'
     max-quantity: '1'
+  experience_bottle:
+    chance: '10'
+    min-quantity: '1'
+    max-quantity: '5'
 default_normal:
   bread:
     chance: '3'
@@ -196,9 +180,37 @@ default_normal:
     max-quantity: '1'
 matou:
   blaze_rod: 
-    chance: '15' 
+    chance: '2' 
     min-quantity: '1' 
     max-quantity: '1' 
+  netherrack: 
+    chance: '10' 
+    min-quantity: '1' 
+    max-quantity: '9' 
+  blaze_rod: 
+    chance: '5' 
+    min-quantity: '1' 
+    max-quantity: '1' 
+  nether_wart:
+    chance: '5'
+    min-quantity: '1'
+    max-quantity: '1'
+  blaze_powder:
+    chance: '5'
+    min-quantity: '1'
+    max-quantity: '1'
+  magma_block: 
+    chance: '5' 
+    min-quantity: '1' 
+    max-quantity: '1' 
+  magma_cream: 
+    chance: '2' 
+    min-quantity: '1' 
+    max-quantity: '1' 
+  nether_quartz_ore:
+    chance: '3'
+    min-quantity: '1'
+    max-quantity: '5'
 yiyuan:
   adrenaline:
     chance: '5'
