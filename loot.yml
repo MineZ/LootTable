@@ -94,7 +94,7 @@ default_rare:
     min-quantity: '1'
     max-quantity: '1'
   cooked_porkchop:
-    chance: '10'
+    chance: '3'
     min-quantity: '1'
     max-quantity: '3'
   chorus_fruit:
