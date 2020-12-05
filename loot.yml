@@ -97,10 +97,6 @@ default_rare:
     chance: '3'
     min-quantity: '1'
     max-quantity: '3'
-  chorus_fruit:
-    chance: '8'
-    min-quantity: '1'
-    max-quantity: '3'
   bandage:
     chance: '8'
     min-quantity: '1'
