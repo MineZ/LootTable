@@ -3,59 +3,55 @@ default_legendary:
     chance: '2.5'
     min-quantity: '1'
     max-quantity: '1'
-  totem_of_undying:
-    chance: '1.5'
-    min-quantity: '1'
-    max-quantity: '1'
   enchanted_golden_apple:
     chance: '1.5'
     min-quantity: '1'
     max-quantity: '1'
-default_epic: 
-  rabbit_foot: 
-    chance: '2' 
-    min-quantity: '1' 
-    max-quantity: '2' 
-  dragon_breath: 
-    chance: '10' 
-    min-quantity: '1' 
-    max-quantity: '1' 
-  diamond: 
-    chance: '10' 
-    min-quantity: '1' 
-    max-quantity: '1' 
-  emerald: 
-    chance: '2.5' 
-    min-quantity: '1' 
-    max-quantity: '2' 
-  glowstone_dust: 
-    chance: '10' 
-    min-quantity: '1' 
-    max-quantity: '3' 
-  ender_pearl: 
-    chance: '2' 
-    min-quantity: '1' 
-    max-quantity: '3' 
-  shulker_shell: 
-    chance: '0.8' 
-    min-quantity: '1' 
-    max-quantity: '2' 
-  golden_apple: 
-    chance: '2.5' 
-    min-quantity: '1' 
-    max-quantity: '1' 
-  sea_lantern: 
-    chance: '10' 
-    min-quantity: '1' 
-    max-quantity: '3' 
-  ghast_tear: 
-    chance: '1' 
-    min-quantity: '1' 
-    max-quantity: '1' 
-  name_tag: 
-    chance: '1' 
-    min-quantity: '1' 
-    max-quantity: '1' 
+default_epic:
+  rabbit_foot:
+    chance: '2'
+    min-quantity: '1'
+    max-quantity: '2'
+  dragon_breath:
+    chance: '10'
+    min-quantity: '1'
+    max-quantity: '1'
+  diamond:
+    chance: '10'
+    min-quantity: '1'
+    max-quantity: '1'
+  emerald:
+    chance: '2.5'
+    min-quantity: '1'
+    max-quantity: '2'
+  glowstone_dust:
+    chance: '10'
+    min-quantity: '1'
+    max-quantity: '3'
+  ender_pearl:
+    chance: '2'
+    min-quantity: '1'
+    max-quantity: '3'
+  shulker_shell:
+    chance: '0.8'
+    min-quantity: '1'
+    max-quantity: '2'
+  golden_apple:
+    chance: '2.5'
+    min-quantity: '1'
+    max-quantity: '1'
+  sea_lantern:
+    chance: '10'
+    min-quantity: '1'
+    max-quantity: '3'
+  ghast_tear:
+    chance: '1'
+    min-quantity: '1'
+    max-quantity: '1'
+  name_tag:
+    chance: '1'
+    min-quantity: '1'
+    max-quantity: '1'
 default_rare:
   cactus:
     chance: '2'
@@ -175,18 +171,18 @@ default_normal:
     min-quantity: '1'
     max-quantity: '1'
 matou:
-  blaze_rod: 
-    chance: '2' 
-    min-quantity: '1' 
-    max-quantity: '1' 
-  netherrack: 
-    chance: '10' 
-    min-quantity: '1' 
-    max-quantity: '9' 
-  blaze_rod: 
-    chance: '5' 
-    min-quantity: '1' 
-    max-quantity: '1' 
+  blaze_rod:
+    chance: '2'
+    min-quantity: '1'
+    max-quantity: '1'
+  netherrack:
+    chance: '10'
+    min-quantity: '1'
+    max-quantity: '9'
+  blaze_rod:
+    chance: '5'
+    min-quantity: '1'
+    max-quantity: '1'
   nether_wart:
     chance: '5'
     min-quantity: '1'
@@ -195,14 +191,14 @@ matou:
     chance: '5'
     min-quantity: '1'
     max-quantity: '1'
-  magma_block: 
-    chance: '5' 
-    min-quantity: '1' 
-    max-quantity: '1' 
-  magma_cream: 
-    chance: '2' 
-    min-quantity: '1' 
-    max-quantity: '1' 
+  magma_block:
+    chance: '5'
+    min-quantity: '1'
+    max-quantity: '1'
+  magma_cream:
+    chance: '2'
+    min-quantity: '1'
+    max-quantity: '1'
   nether_quartz_ore:
     chance: '3'
     min-quantity: '1'
