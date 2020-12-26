@@ -28,14 +28,6 @@ default_epic:
     chance: '10'
     min-quantity: '1'
     max-quantity: '3'
-  ender_pearl:
-    chance: '2'
-    min-quantity: '1'
-    max-quantity: '3'
-  shulker_shell:
-    chance: '0.8'
-    min-quantity: '1'
-    max-quantity: '2'
   golden_apple:
     chance: '2.5'
     min-quantity: '1'
@@ -221,7 +213,7 @@ tianwentai:
     chance: '10'
     min-quantity: '1'
     max-quantity: '5'
-keyanjidi:
+keyanzhongxin:
   arrow:
     chance: '10'
     min-quantity: '1'
